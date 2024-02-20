@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+    font-family: helvetica;
+}
+
+.titles {
+    color: lightblue;
+    background-color: darkblue;
+    display: block;
+    text-align: center;
+}
+
+.content {
+    color: darkblue;
+}
+
+.collections {
+    color: purple;
+}
